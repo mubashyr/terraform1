@@ -15,7 +15,7 @@ provider "azurerm" {
   features {}
 }
 provider "azuread" {
-  client_id     = "00000000-0000-0000-0000-000000000000"
+  client_id     = "0363743a-6cf5-414a-a1c3-f4965969d3f5"
   client_secret = var.client_secret
-  tenant_id     = "10000000-2000-3000-4000-500000000000"
+  tenant_id     = "6966c402-b758-4e30-bd88-648139b54f88"
 }
